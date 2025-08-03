@@ -1,4 +1,4 @@
-# ¡Hola! Soy Agustín, Analista QA 
+# ¡Hola! Soy Agustín, QA Analyst
 
 Soy un Analista QA apasionado por garantizar la calidad del software. Mi experiencia abarca tanto las pruebas manuales como la automatización, con un enfoque en la identificación temprana de defectos y la mejora continua de los procesos de desarrollo. ✨
 
