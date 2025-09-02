@@ -63,10 +63,10 @@ I am a QA Analyst from Argentina, Buenos aires.
 ---
 
 ### :fire: My Stats :
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agustincasttro" alt="agustincasttro" width="400"></a> </p> <!-- Este no necesita tamaño de nada, al sacarlo tiene uno tamaño estandar-->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agustincasttro" alt="agustincasttro" width="500"></a> </p> <!-- Este no necesita tamaño de nada, al sacarlo tiene uno tamaño estandar-->
 <div align="center">  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=agustincasttro&theme=dark&background=000000" width="300"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=agustincasttro&theme=dark&background=000000" width="400"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustincasttro&layout=compact&theme=vision-friendly-dark" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustincasttro&layout=compact&theme=vision-friendly-dark" width="400"/>
 </div>
